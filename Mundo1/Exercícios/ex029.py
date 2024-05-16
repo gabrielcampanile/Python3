@@ -4,6 +4,6 @@ vel = float(input('Velocidade do carro: '))
 
 if vel > 80:
     multa = (vel - 80) * 7
-    print('Você foi multado!\nA multa vai custar R${:.2f}'.format(multa))
+    print('\033[31mVocê foi multado!\nA multa vai custar R${:.2f}\033[m'.format(multa))
 else:
-    print('Se safou!')
+    print('\033[32mSe safou!\033[m')
