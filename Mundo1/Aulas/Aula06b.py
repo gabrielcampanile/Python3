@@ -1,7 +1,0 @@
-n = float(input('Digite um valor: '))
-print(n)
-m = input('Digite algo: ')
-print(type(m))
-print(m.isupper())
-print(m.isalnum())
-print(m.isalpha())
