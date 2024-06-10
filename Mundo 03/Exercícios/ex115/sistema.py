@@ -24,6 +24,7 @@ while True:
         idade = leiaInt('Idade: ')
         cadastrar(arq, pasta, nome, idade)
     elif resposta == 3:
+        # Opção para sair do sistema
         cabeçalho('Saindo do sistema... Até logo!')
         break
     else:

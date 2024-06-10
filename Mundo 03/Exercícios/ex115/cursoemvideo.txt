@@ -1,5 +1,3 @@
-Gabriel;21
-Luana Vergueiro;21
-Gustavo;31
-Caio;18
-Rafaela Belchior Campanile;12
+Gabriel Campanile;21
+Luana Vergueiro;20
+Gustavo Guanabara;33
